@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # networkFileRW.py
-# Original author: Carlos G Rodriguez
-# Original date: November 24, 2026
-# Modified by: Your Full Name
+# Original author: Pamela Brauda
+# Original date: March 3, 2022
+# Modified by: Carlos G Rodriguez
 # Modified date: November 24, 2026
 # Course: CIS3534C
 # Assignment: GPA 9 - Git and GitHub
